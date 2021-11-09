@@ -25,6 +25,7 @@ def install(path):
 def main():
     connect()
     install(getfile())
+    showinfo("Installation Complete!", "If the apk is successfully installed it should be appeared in startmenu. Go and check now!")
     print("success 4 all cool")
 app.resizable(False,False)
 text = tkinter.Label(app)
