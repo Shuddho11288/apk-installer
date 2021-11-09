@@ -16,3 +16,5 @@ Using the power of tkinter, now it contains gui support. But i wish to make web 
 - Please report the bug at tasawarshuddho@gmail.com
 
 ## Thank you for choosing us!
+
+We will try to bring you with more cool projects. :)
